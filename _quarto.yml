@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 bibliography: library/references.bib
-date: 2026-08-06
+date: 2026-09-22
 date-format: "MMM YYYY"
 
 book:
-  title: "Data Pipelines"
-  subtitle: "Building Reliable Workflows from Data Sources to Trusted Outputs"
+  title: "Databases, SQL, and Data Pipelines"
+  subtitle: "From Foundational Queries to Reliable Production Workflows"
 
   chapters:
     - index.qmd
